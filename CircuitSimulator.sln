@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitSimulator", "CircuitSimulator\CircuitSimulator.csproj", "{E979EDD4-D3A7-48F3-A2CD-5CBDD2551AE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircuitSimulator", "CircuitSimulator\CircuitSimulator.csproj", "{E979EDD4-D3A7-48F3-A2CD-5CBDD2551AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ER_Diagram", "ER_Diagram\ER_Diagram.csproj", "{212C27B1-C6F4-4CD7-A220-91A42CF1B106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITestsCircuitSimulator", "UITestsCircuitSimulator\UITestsCircuitSimulator.csproj", "{B329FE58-8FC6-4122-B3B0-E9DA7576D7E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E979EDD4-D3A7-48F3-A2CD-5CBDD2551AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E979EDD4-D3A7-48F3-A2CD-5CBDD2551AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E979EDD4-D3A7-48F3-A2CD-5CBDD2551AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212C27B1-C6F4-4CD7-A220-91A42CF1B106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212C27B1-C6F4-4CD7-A220-91A42CF1B106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212C27B1-C6F4-4CD7-A220-91A42CF1B106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212C27B1-C6F4-4CD7-A220-91A42CF1B106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B329FE58-8FC6-4122-B3B0-E9DA7576D7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B329FE58-8FC6-4122-B3B0-E9DA7576D7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B329FE58-8FC6-4122-B3B0-E9DA7576D7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B329FE58-8FC6-4122-B3B0-E9DA7576D7E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
