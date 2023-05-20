@@ -21,7 +21,7 @@
 		</Style>
 		<Style Selector="Button">
 			<Setter Property="BorderThickness" Value="4"/>
-			<Setter Property="BorderBrush" Value="#a0f"/>
+			<Setter Property="BorderBrush" Value="#0000ff"/>
 			<Setter Property="CornerRadius" Value="8"/>
 			<Setter Property="Padding" Value="10"/>
 			<Setter Property="FontSize" Value="24"/>
